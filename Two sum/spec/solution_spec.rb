@@ -1,28 +1,18 @@
 require_relative '../solution'
 require 'rspec'
 
-describe "#is_match" do
-  it "returns true for matching pattern and string" do
-    s = "aab"
-    p = "c*a*b"
-    expect(is_match(s, p)).to eq(true)
-  end
-
-  it "returns false for non-matching pattern and string" do
-    s = "mississippi"
-    p = "mis*is*p*."
-    expect(is_match(s, p)).to eq(false)
-  end
-
-  it "returns true for empty pattern and string" do
-    s = ""
-    p = ""
-    expect(is_match(s, p)).to eq(true)
-  end
-
-  it "returns false for non-matching pattern and non-empty string" do
-    s = "hello"
-    p = "world"
-    expect(is_match(s, p)).to eq(false)
+describe "#two_sum" do
+  it "returns the indices of two numbers that add up to target" do
+    nums = [2, 7, 11, 15]
+    target = 9
+    expect(two_sum(nums, target)).to eq([0, 1])
+    
+    nums = [3, 2, 4]
+    target = 6
+    expect(two_sum(nums, target)).to eq([1, 2])
+    
+    nums = [3, 3]
+    target = 6
+    expect(two_sum(nums, target)).to eq([0, 1])
   end
 end
