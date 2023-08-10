@@ -10,6 +10,7 @@ Notice that you may not slant the container.
 
 ## Examples
 
+![question_11](https://github.com/Lucas-Erkana/Algorithms/assets/41428579/a4eb6dea-9b3f-42b7-9bdd-7977d4fe382c)
 
 
 Input: height = [1,8,6,2,5,4,8,3,7]
