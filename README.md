@@ -89,7 +89,7 @@ The best way to improve your live coding skill is to practice often. When better
    - Data structure(Day 1): [Lucas-Array](https://github.com/Lucas-Erkana/Algorithms/tree/main/Two%20sum)
    - Data structure(Day 1): [Alex-Array](https://github.com/Lucas-Erkana/Algorithms/tree/main/Regular%20Expression%20Matching)
    - Data structure(Day 2): [Lucas-String](https://github.com/Lucas-Erkana/Algorithms/tree/main/Median%20of%20Two%20Sorted%20Arrays)
-   - Data structure(Day 2): [Alex-String]()
+   - Data structure(Day 2): [Alex-String](https://github.com/Lucas-Erkana/Algorithms/tree/main/Container%20With%20Most%20Water)
    - Data structure: [Lucas-Linked List]()
    - Data structure: [Alex-Linked List]()
    - Algorithm: [Lucas-Recursion]()
