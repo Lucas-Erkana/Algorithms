@@ -86,11 +86,16 @@ There are various strategies (in other words, algorithms) to implement sorting a
 The best way to improve your live coding skill is to practice often. When better than in a mock interview? Together with a peer you are instructed to **choose one data structure to focus on** and then solve the challenge **using our recommended 4 step approach**. Select one person and follow the instructions:
 
 1. Choose a data structure or algorithm to focus on
-   - Data structure: [Array](https://leetcode.com/tag/array/)
-   - Data structure: [String](https://leetcode.com/tag/string/)
-   - Data structure: [Linked List](https://leetcode.com/tag/linked-list/)
-   - Algorithm: [Recursion](https://leetcode.com/tag/recursion/)
-   - Algorithm: [Sorting & Searching](https://leetcode.com/tag/sorting/)
+   - Data structure: [Lucas-Array](https://github.com/Lucas-Erkana/Algorithms/tree/main/Two%20sum)
+   - Data structure: [Alex-Array](https://github.com/Lucas-Erkana/Algorithms/tree/main/Regular%20Expression%20Matching)
+   - Data structure: [Lucas-String]()
+   - Data structure: [Alex-String]()
+   - Data structure: [Lucas-Linked List]()
+   - Data structure: [Alex-Linked List]()
+   - Algorithm: [Lucas-Recursion]()
+   - Algorithm: [Alex-Recursion]()
+   - Algorithm: [Lucas-Sorting & Searching]()
+   - Algorithm: [Alex-Sorting & Searching]()
 2. Pick 1 **easy** coding challenge from the list
 3. Solve the challenge using our **recommended approach** - **(25 min total)**
    - 💡 Understand - Make sure that you understand what the inputs and outputs should be, as well as potential edge cases - **(5 min)**
