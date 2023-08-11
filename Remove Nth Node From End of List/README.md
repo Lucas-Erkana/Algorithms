@@ -4,6 +4,7 @@ Given the head of a linked list, remove the nth node from the end of the list an
 
 ### Example 1
 
+![remove_ex1](https://github.com/Lucas-Erkana/Algorithms/assets/41428579/c9787906-ee21-4dcd-8df6-273656ac6811)
 
 ```
 Input: head = [1,2,3,4,5], n = 2
