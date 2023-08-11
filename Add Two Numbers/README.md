@@ -4,9 +4,9 @@ Given two non-empty linked lists representing two non-negative integers. The dig
 
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 
-## Example
-
 ### Example 1:
+![addtwonumber1](https://github.com/Lucas-Erkana/Algorithms/assets/41428579/463dd604-45c4-4165-a502-1f0a977131f6)
+
 
 ```
 Input: l1 = [2,4,3], l2 = [5,6,4]
