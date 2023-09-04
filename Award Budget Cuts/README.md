@@ -1,3 +1,5 @@
+#  Award Budget Cuts
+
 # Problem Statement
 
 The awards committee of your alma mater (i.e. your college/university) asked for your assistance with a budget allocation problem they’re facing. Originally, the committee planned to give `N` research grants this year. However, due to spending cutbacks, the budget was reduced to `newBudget` dollars and now they need to reallocate the grants. The committee made a decision that they’d like to impact as few grant recipients as possible by applying a maximum cap on all grants. Every grant initially planned to be higher than `cap` will now be exactly `cap` dollars. Grants less or equal to `cap`, obviously, won’t be impacted.
