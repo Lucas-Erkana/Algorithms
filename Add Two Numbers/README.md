@@ -1,3 +1,5 @@
+# Add two numbers
+
 # Problem Description
 
 Given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
@@ -5,7 +7,8 @@ Given two non-empty linked lists representing two non-negative integers. The dig
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 
 ### Example 1:
-![addtwonumber1](https://github.com/Lucas-Erkana/Algorithms/assets/41428579/463dd604-45c4-4165-a502-1f0a977131f6)
+![image](https://github.com/Lucas-Erkana/Algorithms/assets/41428579/2ad80b4a-09da-4361-a304-a725fd2ab80f)
+
 
 
 ```
