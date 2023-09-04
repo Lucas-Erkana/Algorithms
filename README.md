@@ -86,16 +86,12 @@ There are various strategies (in other words, algorithms) to implement sorting a
 The best way to improve your live coding skill is to practice often. When better than in a mock interview? Together with a peer you are instructed to **choose one data structure to focus on** and then solve the challenge **using our recommended 4 step approach**. Select one person and follow the instructions:
 
 1. Choose a data structure or algorithm to focus on
-   - Data structure(Day 1): [Lucas-Array](https://github.com/Lucas-Erkana/Algorithms/tree/main/Two%20sum)
-   - Data structure(Day 1): [Alex-Array](https://github.com/Lucas-Erkana/Algorithms/tree/main/Regular%20Expression%20Matching)
-   - Data structure(Day 2): [Lucas-String](https://github.com/Lucas-Erkana/Algorithms/tree/main/Median%20of%20Two%20Sorted%20Arrays)
-   - Data structure(Day 2): [Alex-String](https://github.com/Lucas-Erkana/Algorithms/tree/main/Container%20With%20Most%20Water)
-   - Data structure: [Lucas-Linked List]()
-   - Data structure: [Alex-Linked List]()
-   - Algorithm: [Lucas-Recursion]()
-   - Algorithm: [Alex-Recursion]()
-   - Algorithm: [Lucas-Sorting & Searching]()
-   - Algorithm: [Alex-Sorting & Searching]()
+      [Add two numbers](https://github.com/Lucas-Erkana/Algorithms/tree/main/Add%20Two%20Numbers)
+      [Add Binary](https://github.com/Lucas-Erkana/Algorithms/tree/main/Add%20binary)
+      [Award Budget Cuts](https://github.com/Lucas-Erkana/Algorithms/tree/main/Award%20Budget%20Cuts)
+      [Basic Calculator IV](https://github.com/Lucas-Erkana/Algorithms/tree/main/Basic%20Calculator%20IV)
+      [Remove Duplicates from Sorted Array](https://github.com/Lucas-Erkana/Algorithms/tree/main/Remove%20Duplicates%20from%20Sorted%20Array)
+      
 2. Pick 1 **easy** coding challenge from the list
 3. Solve the challenge using our **recommended approach** - **(25 min total)**
    - 💡 Understand - Make sure that you understand what the inputs and outputs should be, as well as potential edge cases - **(5 min)**
