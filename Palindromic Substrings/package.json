@@ -1,0 +1,15 @@
+{
+  "name": "group-anagram",
+  "devDependencies": {
+    "mocha": "~8.2.1"
+  },
+  "scripts": {
+    "test": "mocha tests.js"
+  },
+  "description": "Given two binary strings `a` and `b`, return their sum as a binary string.",
+  "version": "1.0.0",
+  "main": "solution.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
