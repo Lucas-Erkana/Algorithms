@@ -1,15 +1,15 @@
 {
-  "name": "median-of-two-sorted-arrays",
+  "name": "add-two-numbers",
   "devDependencies": {
-    "mocha": "~8.2.1"
+    "mocha": "~10.2.0"
   },
   "scripts": {
     "test": "mocha tests.js"
   },
-  "description": "Given two sorted arrays `nums1` and `nums2` of size `m` and `n` respectively, return the median of the two sorted arrays.",
+  "description": "Given two non-empty linked lists representing two non-negative integers.",
   "version": "1.0.0",
   "main": "solution.js",
   "keywords": [],
-  "author": "",
+  "author": "Lucas Erkana",
   "license": "ISC"
 }

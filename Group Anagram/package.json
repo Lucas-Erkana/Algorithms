@@ -1,7 +1,7 @@
 {
   "name": "group-anagram",
   "devDependencies": {
-    "mocha": "~8.2.1"
+    "mocha": "~10.2.0"
   },
   "scripts": {
     "test": "mocha tests.js"
@@ -10,6 +10,6 @@
   "version": "1.0.0",
   "main": "solution.js",
   "keywords": [],
-  "author": "",
+  "author": "Lucas Erkana",
   "license": "ISC"
 }

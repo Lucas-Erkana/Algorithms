@@ -1,5 +1,5 @@
 {
-  "name": "group-anagram",
+  "name": "palindromic-substrings",
   "devDependencies": {
     "mocha": "~10.2.0"
   },
@@ -10,6 +10,6 @@
   "version": "1.0.0",
   "main": "solution.js",
   "keywords": [],
-  "author": "",
+  "author": "Lucas Erkana",
   "license": "ISC"
 }

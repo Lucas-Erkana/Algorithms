@@ -1,12 +1,12 @@
 {
-  "name": "remove-duplicates-from-sorted-array",
+  "name": "longest-substring-without-repeating-characters",
   "devDependencies": {
     "mocha": "~10.2.0"
   },
   "scripts": {
     "test": "mocha tests.js"
   },
-  "description": "Given two sorted arrays `nums1` and `nums2` of size `m` and `n` respectively, return the median of the two sorted arrays.",
+  "description": "Given a string `s`, find the length of the longest substring without repeating characters.",
   "version": "1.0.0",
   "main": "solution.js",
   "keywords": [],
