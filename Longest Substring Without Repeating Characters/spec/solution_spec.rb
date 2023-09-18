@@ -1,24 +1,24 @@
 require_relative '../solution'
 require 'rspec'
 
-RSpec.describe 'count_substrings' do
-  it 'returns 3 when given "abc"' do
-    expect(count_substrings('abc')).to eq(3)
+describe '#length_of_longest_substring' do
+  it 'returns 3 for "abcabcbb"' do
+    expect(length_of_longest_substring('abcabcbb')).to eq(3)
   end
 
-  it 'returns 6 when given "aaa"' do
-    expect(count_substrings('aaa')).to eq(6)
+  it 'returns 1 for "bbbbb"' do
+    expect(length_of_longest_substring('bbbbb')).to eq(1)
   end
 
-  it 'returns 1 when given "a"' do
-    expect(count_substrings('a')).to eq(1)
+  it 'returns 3 for "pwwkew"' do
+    expect(length_of_longest_substring('pwwkew')).to eq(3)
   end
 
-  it 'returns 0 when given ""' do
-    expect(count_substrings('')).to eq(0)
+  it 'returns 0 for ""' do
+    expect(length_of_longest_substring('')).to eq(0)
   end
 
-  it 'returns 9 when given "ababa"' do
-    expect(count_substrings('ababa')).to eq(9)
+  it 'returns 1 for "a"' do
+    expect(length_of_longest_substring('a')).to eq(1)
   end
 end
