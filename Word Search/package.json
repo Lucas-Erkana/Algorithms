@@ -1,0 +1,15 @@
+{
+  "name": "word-search",
+  "devDependencies": {
+    "mocha": "~10.2.0"
+  },
+  "scripts": {
+    "test": "mocha tests.js"
+  },
+  "description": "Given an `m x n` grid of characters `board` and a string `word`, return `true` if `word` exists in the grid",
+  "version": "1.0.0",
+  "main": "solution.js",
+  "keywords": [],
+  "author": "Lucas Erkana",
+  "license": "ISC"
+}
